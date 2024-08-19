@@ -1,1 +1,1 @@
-# Building a Semantic Search and Retrieval System Using LangChain and HuggingFace for Document Processing and Contextual Compression
+# Building a Semantic Search and Retrieval System for Document Processing and Contextual Compression
